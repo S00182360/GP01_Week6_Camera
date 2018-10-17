@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/samuelcolvillerea/Documents/_Y2 S1/2D Game/GP01_Week6_Camera/GP01_Week6_Camera/Content/Fonts/FontOne.spritefont</File>
+    <File>/Users/samuelcolvillerea/Documents/_Y2 S1/2D Game/GP01_Week6_Camera/GP01_Week6_Camera/Content/Textures/background.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
